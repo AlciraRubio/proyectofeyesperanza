@@ -1,0 +1,19 @@
+/*  ESTILOS PARA SMARTPHONE */
+@media screen and (max-width:831px;) {
+    
+    .container{
+
+        width: 100%;
+}
+
+nav {
+
+    width: 400%;
+    height: 280px;
+    background-color: rgb(43, 118, 231);
+}
+
+nav ul {
+    padding-top: 10px;
+
+}
